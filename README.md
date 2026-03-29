@@ -1,4 +1,4 @@
-# digital literacy
+# Digital literacy
 NAME - Adhishri Tiwari 
 BRANCH - B.Tech cse aiml
 WHAT I HOPE TO LERAN ?
